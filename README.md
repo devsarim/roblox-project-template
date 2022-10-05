@@ -56,6 +56,6 @@ return UI
 
 ![image](https://user-images.githubusercontent.com/55910649/194168928-b0bfb60d-e104-4b94-beee-045f4a121d3f.png)
 
-> In conclusion, this provides you with boilerplate for synced game state, player data saving, state synced UI and a nice organized structure.
+> In conclusion, this provides you with boilerplate for synced game state, player data saving, state synced UI, basic continous integration workflow (styling and linting) and a nice organized structure.
 
 I mainly made this for myself and this kind of structure and practice might not be what you prefer so feel free to fork it and edit it however you want, I'm sure it'll still save you some precious developer time. :)
