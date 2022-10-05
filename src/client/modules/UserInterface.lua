@@ -28,7 +28,6 @@ UI.App = Roact.mount(
 			IgnoreGuiInset = true,
 		}, {
 			--* Add components here
-			--* ExampleComponent = Roact.createElement(UI.Components.ExampleComponent, ...)
 			Example = Roact.createElement(UI.Components.Example),
 		}),
 	}),
